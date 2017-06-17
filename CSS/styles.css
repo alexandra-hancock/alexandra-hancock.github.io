@@ -1,6 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Advent+Pro|Chelsea+Market|Fredericka+the+Great|Love+Ya+Like+A+Sister|Monoton');
 
 
+h1, h2, h3 {
+    font-family: 'Chelsea Market', cursive;
+    color: black
+}
+
+p, li {
+    font-family: 'Advent Pro', serif;
+    color: #100D14
+}
+
+body {
+    background: url('../images/abstract-mosaic-background.png')
+    no-repeat center center fixed
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+header, footer {
+    background-color: #595959;
+    text-align: center;
+    padding: 15px 30px;
+}
+
+.main-content {
+    background-color: #808F85;
+    padding: 10px 0;
+    border-top: 2px solid #CFD11a;
+}
+
 header img {
     width: 50%;
     border-radius: 55px;
