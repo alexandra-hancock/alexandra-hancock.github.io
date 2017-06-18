@@ -4,6 +4,8 @@
 h1, h2, h3 {
     font-family: 'Amatic SC', cursive;
     color: black
+    font-size: 100px;
+
 }
 
 p, li {
@@ -22,15 +24,15 @@ body {
 }
 
 header, footer {
-    background-color: #595959;
+    background-color: #57FFD4;
     text-align: center;
     padding: 15px 30px;
 }
 
 .main-content {
-    background-color: #808F85;
+    background-color: #A49AD6;
     padding: 10px 0;
-    border-top: 2px solid #CFD11a;
+    border-top: 2px solid #756E99;
 }
 
 header img {
